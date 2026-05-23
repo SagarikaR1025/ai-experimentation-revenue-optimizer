@@ -1,14 +1,20 @@
 Revenue Optimization with AI Experimentation 
 
-An AI-powered growth analytics and experimentation platform designed to analyze marketing campaign performance, evaluate statistical significance, predict revenue outcomes, and generate AI-driven optimization recommentations 
+An AI-powered growth analytics and experimentation platform designed to analyze marketing campaign performance, evaluate statistical significance, predict revenue outcomes, and generate AI-driven optimization recommendations 
 
 Key Takeaways: 
+Built as an exercise for consulting and performance marketing environments, this platform enables data teams to run statistically rigorous A/B experiments, forecast revenue outcomes using ML models, and receive AI-generated scaling recommendations — all within an interactive Streamlit interface. Designed to replace fragmented spreadsheet-based experimentation workflows with a unified, insight-driven analytics layer.
+
+Selected Key Metrics via Streamlit:
+
+
+
 
 
 Features:
 - KPI driven dashboards
 - A/B testing statistical analysis
-- Campaign performace analytics
+- Campaign performance analytics
 - AI-generated optimization recommendation (w/Claude)
 - Interactive Streamlit interface
 
@@ -35,4 +41,4 @@ Tech Stack:
 - scikit-learn
 - scipy
 - Claude API
-- statisticial experimentation analytics
+
